@@ -4,9 +4,9 @@ This README would normally document whatever steps are necessary to get the
 application up and running.
 
 Things you may want to cover:
-
+応用課題１
 * Ruby version
-
+ruby5.2
 * System dependencies
 
 * Configuration
