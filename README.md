@@ -7,6 +7,7 @@ Things you may want to cover:
 応用課題１
 * Ruby version
 ruby5.2
+削除予定
 * System dependencies
 
 * Configuration
